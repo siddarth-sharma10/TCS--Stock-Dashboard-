@@ -1,2 +1,23 @@
 # TCS--Stock-Dashboard-
-Interactive Power BI dashboard analyzing TCS stock performance from (Feb 10 2025 to Feb 10 2026) using technical indicators, DAX measures, and risk metrics
+This project is an interactive Power BI dashboard designed to analyze the stock performance of Tata Consultancy Services (TCS) over the past one year using real historical market data.
+
+The dashboard provides a comprehensive view of price movement, trading volume, trends, and risk indicators to support data-driven investment decisions. It combines technical analysis with key performance metrics to help users understand whether the stock is growing, declining, or stabilizing.
+
+🔹 Key Features
+One-year price trend visualization with 20-day and 50-day moving averages
+Latest price, highest price, lowest price, and average price indicators
+Yearly return percentage analysis
+Daily trading volume insights
+Volatility measurement for risk assessment
+Automated market trend detection (Uptrend / Downtrend)
+Buy / Sell / Hold trade signal based on price and moving average comparison
+Date slicer for dynamic time-based analysis
+
+🔹 Real-World Use Case
+This dashboard can be used by:
+Retail investors for personal stock analysis
+Financial analysts for performance tracking
+Students for learning financial analytics
+Portfolio managers for quick stock evaluation
+Beginners to understand market behavior using data
+It enables users to quickly evaluate the financial health of TCS stock and make informed decisions without manually analyzing raw data.
