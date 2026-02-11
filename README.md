@@ -1,5 +1,5 @@
 # TCS--Stock-Dashboard-
-This project is an interactive Power BI dashboard designed to analyze the stock performance of Tata Consultancy Services (TCS) over the past one year using real historical market data.
+This project is an interactive Power BI dashboard designed to analyze the stock performance of Tata Consultancy Services (TCS) over the past one year (Feb 10 2025 to Feb 10 2026) using real historical market data.
 
 The dashboard provides a comprehensive view of price movement, trading volume, trends, and risk indicators to support data-driven investment decisions. It combines technical analysis with key performance metrics to help users understand whether the stock is growing, declining, or stabilizing.
 
@@ -21,3 +21,9 @@ Students for learning financial analytics
 Portfolio managers for quick stock evaluation
 Beginners to understand market behavior using data
 It enables users to quickly evaluate the financial health of TCS stock and make informed decisions without manually analyzing raw data.
+
+Key Insight (2025–2026)
+
+Based on the analyzed data:
+📌 TCS stock recorded a negative return of around -26.97% in the last one year, indicating a significant decline in market value during this period.
+This suggests that during the selected timeframe, the company faced downward price pressure, possibly due to market conditions, sector performance, or external economic factors.
